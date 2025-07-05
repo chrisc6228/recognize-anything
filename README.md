@@ -1,3 +1,5 @@
+# Important !!!, needs to add pth file manually due to gitignore #
+
 # <font size=8> :label: Recognize Anything Model </font>
 
 This project aims to develop a series of open-source and strong fundamental image recognition models.
